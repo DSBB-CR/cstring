@@ -21,6 +21,6 @@ typedef struct string {
 ```
 
 ```bash
-git clone https://github.com/yourusername/c-string-library.git
-cd c-string-library
+git clone https://github.com/DSBB-CR/cstring.git
+cd cstring
 ```
